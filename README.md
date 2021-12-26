@@ -27,3 +27,5 @@ The ipynb file also has the outputs saved in the file.
 ====================================================================================
 
 The code is also uploaded into the github - https://github.com/natsu1628/Correlation_Based_Clustering
+
+The report of the project is included in the repo.
